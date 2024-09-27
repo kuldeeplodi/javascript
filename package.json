@@ -1,0 +1,24 @@
+{
+  "name": "pack",
+  "version": "1.0.0",
+  "description": "a node js tutorial",
+  "main": "text.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "code"
+  ],
+  "author": "kuldeep",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "colors": "^1.4.0",
+    "ejs": "^3.1.10",
+    "express.js": "^1.0.0",
+    "mongodb": "^6.8.1",
+    "mongoose": "^8.6.2",
+    "multer": "^1.4.5-lts.1",
+    "simple-node-logger": "^21.8.12"
+  }
+}
